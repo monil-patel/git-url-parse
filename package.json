@@ -29,7 +29,7 @@
     "test": "test"
   },
   "dependencies": {
-    "git-up": "^7.0.0"
+    "git-up": "github:monil-patel/git-up#monilpatel/update-url-parse-package"
   },
   "devDependencies": {
     "tester": "^1.3.1"
